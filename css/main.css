@@ -7,9 +7,9 @@ h1
 header
     {
         background: red;
-        -webkit-linear- background: linear-gradient(45deg, white, red, black);
-        -o-linear- background: linear-gradient(45deg, white, red, black);
-        -moz-linear- background: linear-gradient(45deg, white, red, black);
+        -webkit-linear-background: linear-gradient(45deg, white, red, black);
+        -o-linear-background: linear-gradient(45deg, white, red, black);
+        -moz-linear-background: linear-gradient(45deg, white, red, black);
         background: linear-gradient(45deg, white, red, black);
     }
 
@@ -64,9 +64,9 @@ footer
         padding: 15px;
         background: red;
         background: linear-gradient(-45deg, white, red, black);
-        -webkit-linear- background: linear-gradient(-45deg, white, orange, black);
-        -o-linear- background: linear-gradient(-45deg, white, red, black);
-        -moz-linear- background: linear-gradient(-45deg, white, red, black);
+        -webkit-linear-background: linear-gradient(-45deg, white, orange, black);
+        -o-linear-background: linear-gradient(-45deg, white, red, black);
+        -moz-linear-background: linear-gradient(-45deg, white, red, black);
     }
 
 body
