@@ -1,0 +1,139 @@
+h1
+    {
+        font-size: 25pt;
+        margin: 0;
+    }
+
+header
+    {
+        background: red;
+        -webkit-linear- background: linear-gradient(45deg, white, red, black);
+        -o-linear- background: linear-gradient(45deg, white, red, black);
+        -moz-linear- background: linear-gradient(45deg, white, red, black);
+        background: linear-gradient(45deg, white, red, black);
+    }
+
+*   
+    {
+        font-family: sans-serif;
+    }
+
+main
+    {
+        padding-right: 30px
+    }
+
+.main-content img
+    {
+        float: left;
+        padding: 0 20px 20px 0;
+    }
+
+h4, h5
+    {
+        font-size: 16pt;
+    }
+
+        
+h3:first-of-type:first-letter
+    {
+        font-size: 30pt;
+    }
+       
+a:link
+    {
+        color: red;
+        font-weight: bold;
+    }
+
+a:hover
+    {
+        color:blue;
+    }
+
+li
+    {
+        margin: 5px;
+    }
+
+footer
+    {
+        font-size: 10pt;
+        text-align: center;
+        border-top: 3px solid black;
+        padding: 15px;
+        background: red;
+        background: linear-gradient(-45deg, white, red, black);
+        -webkit-linear- background: linear-gradient(-45deg, white, orange, black);
+        -o-linear- background: linear-gradient(-45deg, white, red, black);
+        -moz-linear- background: linear-gradient(-45deg, white, red, black);
+    }
+
+body
+    {
+        max-width: 800px;
+        margin: auto;
+        border-color: black;
+        border-style: solid;
+        box-shadow: 2px 2px 2px 5px;
+        background-color: white;
+    }
+
+#MainNav
+    {
+        width: 160px;
+        float: left;
+        height: 500px;
+    }
+
+#galleryNav
+    {
+        width: 160px;
+        float: left;
+        height: 1200px;
+    }
+
+#SonyNav ul
+    {
+        margin-top: 180px;
+    }
+
+#imagewithcaption
+    {
+        float: left;
+        width: 250px;
+        text-align: center;
+        padding-right: 5px;
+    }
+
+#galleryFooter
+    {
+        margin-top: 1250px;
+    }
+
+#resumeFooter
+    {
+        margin-top: 12px;
+    }
+
+td, th
+    {
+        border: 1px solid black;
+        padding: 10px;
+        margin: 0px;
+    }
+
+td
+    {
+        text-align: center;
+    }
+
+table
+    {
+        border-collapse: collapse;
+    }
+
+tr:nth-child(odd)
+    {
+        background-color: skyblue;
+    }
